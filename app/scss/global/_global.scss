@@ -1153,3 +1153,12 @@ main {
     transition: fill 0.3s;
   }
 }
+[lang="fa"] body {
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
